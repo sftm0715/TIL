@@ -1,6 +1,6 @@
-// [ch2-1. 화면에 글자 출력하기]
-// 1. System.out.print() : 괄호안의 글자 출력, 줄바꿈X
-// 2. System.out.println() : 괄호안의 글자 출력, 줄바꿈O
+###[ch2-1. 화면에 글자 출력하기]
+1. System.out.print() : 괄호안의 글자 출력, 줄바꿈X
+2. System.out.println() : 괄호안의 글자 출력, 줄바꿈O
 </br>
 
 ```java
@@ -14,7 +14,7 @@ public class Ex2_1 {
         System.out.println("World");
     }
 }
-</br>
+
 
 public class Ex2_2 {
     public static void main(String[] args) {
